@@ -42,5 +42,5 @@ public class Categoria {
 		return "Categoria [codCategoria=" + codCategoria + ", nombre=" + nombre + ", descripcion=" + descripcion + "]";
 	}
 
-	
+	//Me detectara esto?
 }
