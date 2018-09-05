@@ -11,7 +11,7 @@ import com.Producto.view.ProductosIO;
 
 public class Categorias {
 		
-		
+		//Solo para ver que pasa
 		private ArrayList<Categoria> categorias;
 
 		
